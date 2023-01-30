@@ -1,2 +1,2 @@
 # datacamp_practice_projects
-Sharing some projects I completed on dataCamp.
+This repository includes some of the dataCamp projects that I had completed. 
